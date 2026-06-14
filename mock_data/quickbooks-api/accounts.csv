@@ -1,0 +1,8 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Classification,Description
+1,Checking Account,Bank,Checking,14250.00,true,Asset,Business checking account
+2,Accounts Receivable,Accounts Receivable,AccountsReceivable,4300.00,true,Asset,Outstanding customer balances
+3,Design Services Revenue,Income,SalesOfProductIncome,24500.00,true,Revenue,Revenue from creative design projects
+4,Studio Rent,Expense,RentOrLeaseOfEquipment,8750.00,true,Expense,Monthly studio rent
+5,Software Subscriptions,Expense,OtherBusinessExpenses,1200.00,true,Expense,"Adobe, Figma, Canva tools"
+6,Office Supplies,Expense,SuppliesMaterials,450.00,true,Expense,"Paper, print ink, sketchbooks"
+7,Travel and Meals,Expense,Travel,850.00,true,Expense,Client meetings and local travel

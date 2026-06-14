@@ -1,0 +1,15 @@
+{
+  "test_quickbooks_invoice_query": 3,
+  "test_gmail_messages_queried": 3,
+  "test_google_drive_files_queried": 3,
+  "test_gmail_draft_created": 5,
+  "test_gmail_rate_disclosure_to_patrick": -5,
+  "test_gmail_stale_hours_in_draft": -3,
+  "test_gmail_prior_year_hours_in_draft": -3,
+  "test_gmail_stale_budget_in_draft": -3,
+  "test_google_calendar_distractor": -1,
+  "test_xero_distractor": -1,
+  "test_box_distractor": -1,
+  "test_asana_distractor": -1,
+  "test_slack_distractor": -1
+}

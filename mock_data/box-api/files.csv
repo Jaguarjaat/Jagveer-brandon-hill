@@ -1,0 +1,5 @@
+id,name,parent_id,owner_id,description,size,extension,sha1,created_at,modified_at
+500001,old-brand-guidelines.pdf,160001,11446498,Brand guidelines v1,1500000,pdf,sha1-01,2025-03-01T10:00:00-05:00,2025-03-01T10:00:00-05:00
+500002,icons-library.zip,160001,22893011,Creative commons icons library,3120000,zip,sha1-02,2025-05-12T14:00:00-05:00,2025-05-12T14:00:00-05:00
+500003,billing_setup.docx,160002,11446498,Old bank details setup instruction,45000,docx,sha1-03,2026-01-15T09:00:00-05:00,2026-01-15T09:00:00-05:00
+500004,backup-invoice-2025.xlsx,160003,22893011,Previous year invoice backups,85000,xlsx,sha1-04,2026-01-05T10:00:00-05:00,2026-01-05T10:00:00-05:00

@@ -1,0 +1,11 @@
+Id,DisplayName,GivenName,FamilyName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,Job,Notes
+100,Mountain Heritage Arts,Dina,Wu,Mountain Heritage Arts,dwu@mountainheritagearts.org,(304) 555-0190,104 Kanawha St,Charleston,WV,25301,0.00,true,false,Mountain Heritage Arts client. Contact: Dina Wu.
+101,Patrick Hale,Patrick,Hale,Beckley Realty Group,phale@beckleyrealty.com,(304) 555-0122,200 Neville St,Beckley,WV,25801,1500.00,true,false,Real estate listings brochure work.
+102,Mountain Heritage Art,Dina,Wu,Mountain Heritage Art,dwu@mountainheritagearts.org,(304) 555-0190,104 Kanawha St,Charleston,WV,25301,0.00,false,false,Duplicate profile created in error. Mark inactive.
+103,Nina Vasquez,Nina,Vasquez,Thread and Thistle,nina@threadandthistle.com,(304) 555-0143,45 Commerce St,Beckley,WV,25801,0.00,true,false,Boutique branding and rebrand project.
+104,Green Valley Brewery,Sam,Green,Green Valley Brewery,sam@greenvalleybrew.com,(304) 555-0155,12 Oak Rd,Fayetteville,WV,25840,0.00,true,false,Onboarding call scheduled for Oct 19.
+105,Piper Navarro,Piper,Navarro,Piper Studio,piper.navarro@gmail.com,,12 Main St,Beckley,WV,25801,0.00,true,false,Personal design sync.
+106,Dave Compton,Dave,Compton,Compton Properties,dcompton@beckleyproperties.com,,100 Rental Pl,Beckley,WV,25801,0.00,true,false,Apartment leasing landlord.
+107,FastPrint Beckley,,,FastPrint Beckley,print@fastprintbeckley.com,,50 Neville St,Beckley,WV,25801,0.00,true,false,Preferred printing house.
+108,Beckley YMCA,,,Beckley YMCA,info@beckleyymca.org,,120 Woodlawn Ave,Beckley,WV,25801,0.00,true,false,YMCA membership and yoga classes.
+109,Fayetteville Tourism,Jane,Miller,Fayetteville Tourism Board,visit@fayettevillewv.gov,,310 Court St,Fayetteville,WV,25840,0.00,true,false,Local guide layout services.

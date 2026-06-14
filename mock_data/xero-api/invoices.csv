@@ -1,0 +1,7 @@
+invoice_id,invoice_number,type,contact_id,contact_name,date,due_date,status,line_amount_types,sub_total,total_tax,total,amount_due,amount_paid,currency_code,reference
+i0000001,INV-1001,ACCREC,c000001,Vandelay Industries,2026-09-01,2026-09-15,PAID,Exclusive,5000.00,0.00,5000.00,0.00,5000.00,USD,Consulting retainer
+i0000002,INV-1002,ACCREC,c000002,Initech LLC,2026-09-05,2026-10-05,AUTHORISED,Exclusive,2400.00,0.00,2400.00,2400.00,0.00,USD,Creative hours
+i0000003,INV-1003,ACCREC,c000003,Globex Corporation,2026-09-10,2026-10-10,AUTHORISED,Exclusive,8500.00,0.00,8500.00,8500.00,0.00,USD,Annual design support
+i0000004,BILL-2001,ACCPAY,c000004,Acme Paper Supplies,2026-09-12,2026-09-27,PAID,Exclusive,350.00,0.00,350.00,0.00,350.00,USD,Paper stock
+i0000005,BILL-2002,ACCPAY,c000005,Wonka Cocoa,2026-09-18,2026-10-18,AUTHORISED,Exclusive,1100.00,0.00,1100.00,1100.00,0.00,USD,Event materials
+i0000006,INV-1004,ACCREC,c000001,Vandelay Industries,2026-09-20,2026-10-20,AUTHORISED,Exclusive,750.00,0.00,750.00,750.00,0.00,USD,Add-on design work

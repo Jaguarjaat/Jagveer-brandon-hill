@@ -1,0 +1,484 @@
+[
+  {
+    "Id": "8001",
+    "DocNumber": "INV-HDC-2026-Q1",
+    "TxnDate": "2026-04-03",
+    "DueDate": "2026-05-03",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Mountain Heritage Arts"
+    },
+    "Line": [
+      {
+        "Amount": 2100,
+        "Description": "Graphic design services - Q1 FY2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2100,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8002",
+    "DocNumber": "INV-HDC-2026-Q2",
+    "TxnDate": "2026-07-03",
+    "DueDate": "2026-08-03",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Mountain Heritage Arts"
+    },
+    "Line": [
+      {
+        "Amount": 2100,
+        "Description": "Graphic design services - Q2 FY2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2100,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8003",
+    "DocNumber": "INV-HDC-2026-Q3",
+    "TxnDate": "2026-10-02",
+    "DueDate": "2026-11-02",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Mountain Heritage Arts"
+    },
+    "Line": [
+      {
+        "Amount": 2800,
+        "Description": "Graphic design services - Q3 FY2026 (Annual Report layout)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2800,
+    "Balance": 2800,
+    "Status": "Open",
+    "PrivateNote": "Q3 billing. Reflects actual hours including annual report draft work."
+  },
+  {
+    "Id": "8004",
+    "DocNumber": "INV-HDC-2026-PH1",
+    "TxnDate": "2026-09-15",
+    "DueDate": "2026-10-15",
+    "CustomerRef": {
+      "value": "101",
+      "name": "Patrick Hale"
+    },
+    "Line": [
+      {
+        "Amount": 1500,
+        "Description": "Listing brochure layouts and listing flyer templates",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500,
+    "Balance": 1500,
+    "Status": "Open"
+  },
+  {
+    "Id": "8005",
+    "DocNumber": "INV-HDC-2026-Q1-VOID",
+    "TxnDate": "2026-04-03",
+    "DueDate": "2026-05-03",
+    "CustomerRef": {
+      "value": "102",
+      "name": "Mountain Heritage Art"
+    },
+    "Line": [
+      {
+        "Amount": 2100,
+        "Description": "Graphic design services - Q1 FY2026 (voided duplicate)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2100,
+    "Balance": 0,
+    "Status": "Voided",
+    "PrivateNote": "Voided. Duplicate entry under wrong client account name."
+  },
+  {
+    "Id": "8010",
+    "DocNumber": "INV-HDC-2026-100",
+    "TxnDate": "2026-01-10",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "103",
+      "name": "Nina Vasquez"
+    },
+    "Line": [
+      {
+        "Amount": 150,
+        "Description": "Design work - Item 1",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150,
+    "Balance": 150,
+    "Status": "Open"
+  },
+  {
+    "Id": "8011",
+    "DocNumber": "INV-HDC-2026-101",
+    "TxnDate": "2026-02-11",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Green Valley Brewery"
+    },
+    "Line": [
+      {
+        "Amount": 300,
+        "Description": "Design work - Item 2",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8012",
+    "DocNumber": "INV-HDC-2026-102",
+    "TxnDate": "2026-03-12",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Fayetteville Tourism"
+    },
+    "Line": [
+      {
+        "Amount": 450,
+        "Description": "Design work - Item 3",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8013",
+    "DocNumber": "INV-HDC-2026-103",
+    "TxnDate": "2026-04-13",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "103",
+      "name": "Nina Vasquez"
+    },
+    "Line": [
+      {
+        "Amount": 600,
+        "Description": "Design work - Item 4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600,
+    "Balance": 600,
+    "Status": "Open"
+  },
+  {
+    "Id": "8014",
+    "DocNumber": "INV-HDC-2026-104",
+    "TxnDate": "2026-05-14",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Green Valley Brewery"
+    },
+    "Line": [
+      {
+        "Amount": 800,
+        "Description": "Design work - Item 5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8015",
+    "DocNumber": "INV-HDC-2026-105",
+    "TxnDate": "2026-06-15",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Fayetteville Tourism"
+    },
+    "Line": [
+      {
+        "Amount": 150,
+        "Description": "Design work - Item 6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8016",
+    "DocNumber": "INV-HDC-2026-106",
+    "TxnDate": "2026-07-16",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "103",
+      "name": "Nina Vasquez"
+    },
+    "Line": [
+      {
+        "Amount": 300,
+        "Description": "Design work - Item 7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300,
+    "Balance": 300,
+    "Status": "Open"
+  },
+  {
+    "Id": "8017",
+    "DocNumber": "INV-HDC-2026-107",
+    "TxnDate": "2026-08-17",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Green Valley Brewery"
+    },
+    "Line": [
+      {
+        "Amount": 450,
+        "Description": "Design work - Item 8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8018",
+    "DocNumber": "INV-HDC-2026-108",
+    "TxnDate": "2026-09-18",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Fayetteville Tourism"
+    },
+    "Line": [
+      {
+        "Amount": 600,
+        "Description": "Design work - Item 9",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8019",
+    "DocNumber": "INV-HDC-2026-109",
+    "TxnDate": "2026-01-19",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "103",
+      "name": "Nina Vasquez"
+    },
+    "Line": [
+      {
+        "Amount": 800,
+        "Description": "Design work - Item 10",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800,
+    "Balance": 800,
+    "Status": "Open"
+  },
+  {
+    "Id": "8020",
+    "DocNumber": "INV-HDC-2026-110",
+    "TxnDate": "2026-02-20",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Green Valley Brewery"
+    },
+    "Line": [
+      {
+        "Amount": 150,
+        "Description": "Design work - Item 11",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8021",
+    "DocNumber": "INV-HDC-2026-111",
+    "TxnDate": "2026-03-21",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Fayetteville Tourism"
+    },
+    "Line": [
+      {
+        "Amount": 300,
+        "Description": "Design work - Item 12",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8022",
+    "DocNumber": "INV-HDC-2026-112",
+    "TxnDate": "2026-04-22",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "103",
+      "name": "Nina Vasquez"
+    },
+    "Line": [
+      {
+        "Amount": 450,
+        "Description": "Design work - Item 13",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450,
+    "Balance": 450,
+    "Status": "Open"
+  },
+  {
+    "Id": "8023",
+    "DocNumber": "INV-HDC-2026-113",
+    "TxnDate": "2026-05-23",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Green Valley Brewery"
+    },
+    "Line": [
+      {
+        "Amount": 600,
+        "Description": "Design work - Item 14",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "8024",
+    "DocNumber": "INV-HDC-2026-114",
+    "TxnDate": "2026-06-24",
+    "DueDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Fayetteville Tourism"
+    },
+    "Line": [
+      {
+        "Amount": 800,
+        "Description": "Design work - Item 15",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Design Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]
