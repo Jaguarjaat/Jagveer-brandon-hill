@@ -1,0 +1,6 @@
+contact_id,contact_name,type,date,due_date,status,email,phone
+c000001,Vandelay Industries,CUSTOMER,2026-01-15,,,admin@vandelayindustries.com,555-0201
+c000002,Initech LLC,CUSTOMER,2025-11-01,,,billing@initech.com,555-0202
+c000003,Globex Corporation,CUSTOMER,2025-06-10,,,contracts@globex.com,555-0203
+c000004,Acme Paper Supplies,SUPPLIER,2025-09-20,,,orders@acmepaper.com,555-0204
+c000005,Wonka Cocoa,SUPPLIER,2026-03-01,,,supply@wonkacocoa.com,555-0205

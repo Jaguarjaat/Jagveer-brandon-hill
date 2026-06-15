@@ -1,0 +1,5 @@
+id,name,real_name,display_name,email,is_bot,is_admin,status_text,status_emoji
+U01BRANDON,brandon.hill,Brandon Hill,Brandon,brandon.hill@voissync.ai,false,true,Designing things,":art:"
+U01NINA,nina.vasquez,Nina Vasquez,Nina,nina@threadandthistle.com,false,false,,"
+U01PIPER,piper.dawson,Piper Dawson,Piper,piper.dawson.bkly@gmail.com,false,false,,"
+U01SAM,sam.green,Sam Green,Sam,sam@greenvalleybrew.com,false,false,,"

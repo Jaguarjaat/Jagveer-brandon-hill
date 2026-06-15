@@ -1,0 +1,4 @@
+id,name,is_channel,is_member,num_members,purpose,topic,created
+C01DESIGN,design-collab,true,true,3,Design feedback and file sharing,Current projects,1672531200
+C01GENERAL,general,true,true,5,Company-wide announcements and chat,Hill Design Co. general,1672531200
+C01RANDOM,random,true,true,4,Non-work chatter and fun stuff,Off-topic,1672531200

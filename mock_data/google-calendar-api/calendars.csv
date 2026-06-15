@@ -1,0 +1,3 @@
+id,calendar_id,summary,description,location,start,end,all_day,status,creator,organizer
+cal-1,brandon.hill@voissync.ai,Personal,Brandon's personal calendar,,,,,,brandon.hill@voissync.ai,brandon.hill@voissync.ai
+cal-2,brandon.hill@voissync.ai,Hill Design Co.,Business calendar for client deadlines and meetings,,,,,,brandon.hill@voissync.ai,brandon.hill@voissync.ai

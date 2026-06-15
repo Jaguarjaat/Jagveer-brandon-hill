@@ -96,6 +96,7 @@ Vehicle: 2021 Subaru Crosstrek, forest green, about 34,000 miles. Reliable and b
 ## Connected Accounts
 
 - Google Workspace: `brandon.hill@voissync.ai` (Gmail, Google Calendar, Google Drive).
+- QuickBooks Online: Hill Design Co. business account for invoicing and expense tracking.
 - Instagram portfolio: `@hilldesign`, about 1,200 followers.
 - United Bank: personal checking, personal savings, business checking.
 - Capital One Venture business card, $4,000 limit.

@@ -1,0 +1,6 @@
+account_id,name,type,status,currency_code,tax_type,class,bank_account_number
+a0001,Business Checking,BANK,ACTIVE,USD,,,****4821
+a0002,Accounts Receivable,CURRENT,ACTIVE,USD,OUTPUT,,
+a0003,Design Revenue,REVENUE,ACTIVE,USD,OUTPUT,,
+a0004,Office Supplies,EXPENSE,ACTIVE,USD,INPUT,,
+a0005,Software Subscriptions,EXPENSE,ACTIVE,USD,INPUT,,

@@ -1,0 +1,4 @@
+id,name,type,created_at,modified_at,size,owned_by_id,owned_by_login
+160001,Design Assets,folder,2025-01-10T10:00:00-05:00,2026-09-01T12:00:00-05:00,0,11446498,brandon.hill@voissync.ai
+160002,Admin Docs,folder,2025-06-01T09:00:00-05:00,2026-08-15T11:00:00-05:00,0,11446498,brandon.hill@voissync.ai
+160003,Old Invoices Archive,folder,2025-12-20T14:00:00-05:00,2026-01-05T10:00:00-05:00,0,22893011,brandon.hill@voissync.ai
